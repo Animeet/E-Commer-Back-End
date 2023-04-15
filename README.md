@@ -7,7 +7,7 @@
 
 **Repository URL:** https://github.com/Animeet/E-Commer-Back-End
 
-**Video Demonstration URL:** https://www.youtube.com/watch?v=_Vikd4eRc0E
+**Video Demonstration URL:** https://www.youtube.com/watch?v=sTjQdwyop3U
 
   ## Table of Contents
   - [Installation](#installation)
